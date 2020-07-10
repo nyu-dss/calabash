@@ -1,0 +1,218 @@
+.sidebar {
+	background-color: #E3E3E3;
+	/*background-color:#ffffff;*/
+}
+
+.bodytext
+{
+font-family: Arial, Helvetica,Sans-Serif;
+font-size: smaller;
+color: black;
+}
+.issn {
+	font-family: Arial, Helvetica, Sans-Serif;
+	color:#551A8B;
+	font-size:x-small;
+	font-weight:bold;
+	background-color:#E3E3E3;
+}
+.title {
+	font-family: Arial, Helvetica, Sans-Serif;
+	color:#DC143C;
+	font-weight:bold;
+}
+A.title:hover {
+	font-family: Arial, Helvetica, Sans-Serif;
+        color:#DC143C;
+        font-weight:bold;
+	text-decoration:underline;
+
+}
+A.title:visited:hover {
+	font-family: Arial, Helvetica, Sans-Serif;
+        color:#DC143C;
+        font-weight:bold;
+	text-decoration:underline;
+
+}
+.titleh {
+	font-family: Arial, Helvetica, Sans-Serif;
+	color:#380474;
+	font-weight:bold;
+}
+
+A.titleh:hover {
+	font-family: Arial, Helvetica, Sans-Serif;
+        color:#380474;
+        font-weight:bold;
+        text-decoration:underline;
+}
+
+A.titleh:visited:hover {
+	font-family: Arial, Helvetica, Sans-Serif;
+        color:#380474;
+        font-weight:bold;
+        text-decoration:underline;
+}
+
+.author {
+	font-family: Arial, Helvetica, Sans-Serif;
+	color:black;
+	font-style : italic;
+}
+.tocsection {
+	font-family: Arial, Helvetica, Sans-Serif;	
+	color:white;
+	font-weight:bold;
+	text-transform: uppercase;
+/*	background : #DC143C;
+*/
+	background: #DC143C;
+	padding-left:.5em;
+}
+.highlights {
+	font-family: Arial, Helvetica, Sans-Serif;	
+	color:white;
+	font-weight:bold;
+	text-transform: uppercase;
+	background:#380474;
+	padding-left:.5em;
+}
+
+.highlightsbox {
+	border : thin solid Silver;
+}
+.issue {
+	font-family: Verdana, Arial, Sans-Serif;
+	font-size: x-small;
+	color: #380474;
+	text-align:right;
+	text-transform:uppercase;
+	font-weight:bold;
+	border : 1px solid #380474;
+	border-left:none;
+	border-right:none;
+}
+
+.caption
+{
+ font-family: Verdana, Arial, Sans-Serif;
+ font-size: 10px;
+ color: white;
+ background: black;
+ text-align: center;
+}
+
+A
+{
+font-family:  Arial, Verdana,Sans-Serif;
+font-size: inherited;
+color: #DC143C;
+}
+
+A:visited
+{
+font-family: Arial, Verdana, Sans-Serif;
+font-size: inherited;
+color: #DC143C;
+}
+
+A:hover
+{
+font-family:  Arial,Verdana, Sans-Serif;
+font-size: inherited;
+color: black;
+text-decoration: none;
+}
+
+A:visited:hover
+{
+font-family:  Arial,Verdana, Sans-Serif;
+font-size: inherited;
+color: black;
+text-decoration: none;
+}
+
+A.navbar
+{
+	text-align: inherited;
+	font-family: Arial, Helvetica, Sans-Serif;
+	font-weight: bold;
+	font-size: smaller;
+	color: #551A8B;
+	text-decoration: none;
+	background:#E3E3E3; 
+}
+
+A.navbar:visited
+{
+	text-align: inherited;
+	font-family: Arial, Helvetica, Sans-Serif;
+	font-weight: bold;
+	font-size: smaller;
+	color: #551A8B;
+	text-decoration: none;
+	background:#E3E3E3;
+}
+
+A.navbar:hover
+{
+text-align: inherited;
+font-family: Arial, Helvetica, Sans-Serif;
+font-weight: bold;
+font-size: smaller;
+color:#DC143C;
+text-decoration: underline;
+}
+
+A.navbar:visited:hover {
+	text-align: inherited;
+	font-family: Arial, Helvetica, Sans-Serif;
+	font-weight: bold;
+	font-size: smaller;
+	color:#DC143C;
+	text-decoration: underline;
+}
+A.title
+{
+	font-family: Arial, Helvetica, Sans-Serif;
+	color:#DC143C;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+A.title:hover
+{
+	font-family: Arial, Helvetica, Sans-Serif;
+	color:#DC143C;
+	font-weight:bold;
+	text-decoration:underline;
+}
+A.title:visited
+{
+	font-family: Arial, Helvetica, Sans-Serif;
+	color:#DC143C;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+A.titleh {
+	font-family: Arial, Helvetica, Sans-Serif;
+	color: #380474;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+A.titleh:hover {
+	font-family: Arial, Helvetica, Sans-Serif;
+	color:#380474;
+	font-weight:bold;
+	text-decoration:underline;
+}
+
+A.titleh:visited {
+	font-family: Arial, Helvetica, Sans-Serif;
+	color:#380474;
+	font-weight:bold;
+	text-decoration:none;
+}

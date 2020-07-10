@@ -1,0 +1,230 @@
+.sidebar {
+	background-color: #5D8ED0;
+	/*background:#D2C1B1;*/
+	/*background:#660000;*/
+	/*background-color:#ffffff;*/
+}
+
+body {
+	background-image: url(bk.jpg);
+	background-repeat: no-repeat;
+	background-position:left bottom;
+}
+
+.bodytext
+{
+font-family: Arial, Helvetica,Sans-Serif;
+font-size: 12px;
+color: #222222;
+}
+
+.issn {
+	font-family: Arial, Helvetica, Sans-Serif;
+	/*color:#663300;*/
+	color:white;
+	font-size:x-small;
+	font-weight:bold;
+}
+.title {
+	font-family: Arial, Helvetica, Sans-Serif;
+	color:#663333;
+	font-weight:bold;
+}
+.author {
+	font-family: Arial, Helvetica, Sans-Serif;
+	color:black;
+	font-style : italic;
+}
+.tocsection {
+	font-family: Arial, Helvetica, Sans-Serif;
+	color:white;
+	font-weight:bold;
+	text-transform: uppercase;
+	padding-left:0.5em;
+	background-color: #8C4A70;
+}
+.BgStyle {
+	background-repeat: no-repeat;
+	background-position: left bottom;
+}
+
+.highlights {
+	font-family: Arial, Helvetica, Sans-Serif;
+	color:white;
+	font-weight:bold;
+	text-transform: uppercase;
+	padding-left:0.5em;
+	background-color: #207BDF;
+}
+
+.highlightsbox {
+	border : thin solid Silver;
+}
+.issue {
+	font-family: Verdana, Arial, Sans-Serif;
+	font-size: x-small;
+	color: #663552;
+	text-align:right;
+	text-transform:uppercase;
+	font-weight:bold;
+	border : 1px solid #663552;
+	border-left:none;
+	border-right:none;
+}
+
+.caption
+{
+	font-family: Verdana, Arial, Sans-Serif;
+	font-size: 10px;
+	color: #FFFFFF;
+	text-align: center;
+	background-color: #000000;
+}
+
+A.title
+{
+	font-family: Arial, Helvetica, Sans-Serif;
+	color:#222222;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+A.title:hover
+{
+	font-family: Arial, Helvetica, Sans-Serif;
+	color:#222222;
+	font-weight:bold;
+	text-decoration:underline;
+}
+A.title:visited
+{
+		font-family: Arial, Helvetica, Sans-Serif;
+	color:#222222;
+	font-weight:bold;
+	text-decoration:none;
+}
+A.title:visited:hover
+{
+	font-family: Arial, Helvetica, Sans-Serif;
+	color:#222222;
+	font-weight:bold;
+	text-decoration:underline;
+}
+
+A.titleh {
+	font-family: Arial, Helvetica, Sans-Serif;
+	color:#660000;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+A.titleh:hover {
+	font-family: Arial, Helvetica, Sans-Serif;
+	color:#660000;
+	font-weight:bold;
+	text-decoration:underline;
+}
+
+A.titleh:visited {
+	font-family: Arial, Helvetica, Sans-Serif;
+	color:#660000;
+	font-weight:bold;
+	text-decoration:none;
+}
+A.titleh:visited:hover{
+	font-family: Arial, Helvetica, Sans-Serif;
+	color:#660000;
+	font-weight:bold;
+	text-decoration:underline;
+}
+.script {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-style: italic;
+	font-weight: bold;
+	color: #333333;
+}
+
+.navbar
+{
+	text-align: left;
+	font-family: Arial, Helvetica, Sans-Serif;
+	font-weight: bold;
+	font-size: 12px;
+	color: #ffffff;
+	text-decoration: none;
+	background: #5D8ED0;
+}
+
+.navbar:hover
+{
+text-align: left;
+font-family: Arial, Helvetica, Sans-Serif;
+font-weight: bold;
+font-size: 12px;
+color: #FFD800;
+text-decoration: underline;
+}
+
+
+#navPanel {
+	width: 90%;
+	font-family: Arial, Verdana, sans-serif;
+	background-color: #207BDF;
+	color: #333;
+	padding-top: 0em;
+	padding-right: 0px;
+	padding-bottom: 1em;
+	padding-left: 0px;
+	margin: 0em;
+	font-size: 12px;
+	}
+	
+#navPanel ul {
+	list-style: none;
+	border: none;
+	padding: 0px;
+	margin: 0px;
+		}
+		
+/*#navPanel li {
+	width: 100%;
+		}*/
+		
+#navPanel li a {
+	display: block;
+	background-color: #207BDF;
+	color: #fff;
+	text-decoration: none;
+	width: 100%;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 0.5em;
+	margin: 0px;
+	font-size: 12px;
+	}
+	
+#navPanel p {
+	font-family: Arial, Verdana, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	margin-top: 30px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 5px;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 5px;
+}
+
+
+html>body #navPanel li a {
+		width: auto;
+	}
+
+#navPanel li a:hover {
+	background-color: #8C4A70;
+	color: #FFE600;
+	}

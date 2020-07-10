@@ -1,0 +1,72 @@
+<Root>
+	<ImageNum>11</ImageNum>
+	<Content>
+		<Image>
+			<Filename>2008summer/Chancy-01.jpg</Filename>
+			<Thumbnail></Thumbnail>
+			<Title>In the Hills of Haiti</Title>
+			<Artist>Myriam J.A.Chancy</Artist>
+		</Image>
+		<Image>
+			<Filename>2008summer/Chancy-02.jpg</Filename>
+			<Thumbnail></Thumbnail>
+			<Title>Her Story Yet to Tell…</Title>
+			<Artist>Myriam J.A.Chancy</Artist>
+		</Image>
+		<Image>
+			<Filename>2008summer/Chancy-03.jpg</Filename>
+			<Thumbnail></Thumbnail>
+			<Title>Rice Field</Title>
+			<Artist>Myriam J.A.Chancy</Artist>
+		</Image>
+		<Image>
+			<Filename>2008summer/Chancy-04.jpg</Filename>
+			<Thumbnail></Thumbnail>
+			<Title>Boy with Ford</Title>
+			<Artist>Myriam J.A.Chancy</Artist>
+		</Image>
+		<Image>
+			<Filename>2008summer/Chancy-05.jpg</Filename>
+			<Thumbnail></Thumbnail>
+			<Title>Playing Marbles</Title>
+			<Artist>Myriam J.A.Chancy</Artist>
+		</Image>
+		<Image>
+			<Filename>2008summer/Chancy-06.jpg</Filename>
+			<Thumbnail></Thumbnail>
+			<Title>Seascape</Title>
+			<Artist>Myriam J.A.Chancy</Artist>
+		</Image>
+		<Image>
+			<Filename>2008summer/Chancy-07.jpg</Filename>
+			<Thumbnail></Thumbnail>
+			<Title>Tap-Tap</Title>
+			<Artist>Myriam J.A.Chancy</Artist>
+		</Image>
+		<Image>
+			<Filename>2008summer/Chancy-08.jpg</Filename>
+			<Thumbnail></Thumbnail>
+			<Title>Marché de la Cathédrale: Open Sky</Title>
+			<Artist>Myriam J.A.Chancy</Artist>
+		</Image>
+		<Image>
+			<Filename>2008summer/Chancy-09.jpg</Filename>
+			<Thumbnail></Thumbnail>
+			<Title>Marché de Pétion-Ville</Title>
+			<Artist>Myriam J.A.Chancy</Artist>
+		</Image>
+		<Image>
+			<Filename>2008summer/Chancy-10.jpg</Filename>
+			<Thumbnail></Thumbnail>
+			<Title>Vendeur de Pain: Rural Bus Stop</Title>
+			<Artist>Myriam J.A.Chancy</Artist>
+		</Image>
+		<Image>
+			<Filename>2008summer/Chancy-11.jpg</Filename>
+			<Thumbnail></Thumbnail>
+			<Title>Cap Laferriere</Title>
+			<Artist>Myriam J.A.Chancy</Artist>
+		</Image>
+
+	</Content>
+</Root>
